@@ -3,7 +3,7 @@
    "host": "localhost",
    "port": 5432,
    "username": "postgres",
-   "password": "Qwerty123",
+   "password": "",
    "database": "tebengan",
    "synchronize": true,
    "logging": false,
